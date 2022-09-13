@@ -11,9 +11,13 @@ Environment:
 -> A user defined matrix with random values initialized in it
 
 Actuators:
+
 -> moveDown function
+
 -> moveUp 
+
 -> moveLeft
+
 -> moveRight function
 
 Sensors:
