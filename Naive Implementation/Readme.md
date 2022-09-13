@@ -1,8 +1,9 @@
 The naive implementation vaccum cleaner.
 
-PEAS Description:
+*PEAS Description:*
 
 Performace measures:
+
 -> Amount of dirt cleaned in single iteration
 
 Environment:
